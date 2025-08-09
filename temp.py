@@ -8,4 +8,4 @@ if(unit=="C"):
 else:
     temperature=5/9*(temperature-32)
     temperature=round(temperature,2)
-    print(f"The temperature = {temperature} C");
+    print(f"The temperature = {temperature} C")
